@@ -1,4 +1,4 @@
-# Repo to contain the patches for [Lore angel - Pure Data Spectral Freezer + Glitch Drum Machine ][https://www.youtube.com/watch?v=51UgOlnMCB0&lc=UgyhtgkSlF_n_O7Bnm94AaABAg.AdP3vv80eK-AddBz9WKQGY]
+# Repo to contain the patches for [Lore angel - Pure Data Spectral Freezer + Glitch Drum Machine ](https://www.youtube.com/watch?v=51UgOlnMCB0&lc=UgyhtgkSlF_n_O7Bnm94AaABAg.AdP3vv80eK-AddBz9WKQGY)
 
 The patch used in the video is pulsar2.pd. 
 Feel free to look around in the other patches.
